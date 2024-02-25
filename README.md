@@ -8,3 +8,5 @@ Day: 1-> Behavioral Modeling
 Day: 2-> dataflow Modeling 
 
 Day: 3-> Gate Level Modeling 
+
+Day: 4-> Half Adder and Full Adder 
