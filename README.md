@@ -10,3 +10,11 @@ Day: 2-> dataflow Modeling
 Day: 3-> Gate Level Modeling 
 
 Day: 4-> Half Adder and Full Adder 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Day: 5-> Half Adder and Full Adder 
+
+Day: 6-> Half Adder and Full Adder 
+
+Day: 7-> Half Adder and Full Adder 
+
+Day: 8-> Half Adder and Full Adder 
