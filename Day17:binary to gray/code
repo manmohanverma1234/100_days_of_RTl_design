@@ -1,0 +1,8 @@
+module b_to_g(input logic [3:0]a,output logic [3:0]y);
+logic w;
+not(w,a[3]);
+not(y[3],w); 
+xor(y[2],a[3],a[2]);
+xor(y[1],a[2],a[1]);
+xor(y[0],a[1],a[0]);
+endmodule
