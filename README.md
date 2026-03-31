@@ -33,3 +33,5 @@ Day: 12-> Full subtractor
 Day: 13-> 4-bit binary multiplier
 
 Day: 14-> Wallace tree multiplier
+
+Day: 15-> Dadda multiplier
